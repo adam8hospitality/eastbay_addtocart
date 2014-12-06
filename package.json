@@ -1,0 +1,29 @@
+{
+  "name": "autoaddtocart",
+  "version": "0.0.1",
+  "description": "Auto Add to Cart",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha -R spec",
+    "debug": "node-debug app.js"
+  },
+  "keywords": [
+    "add",
+    "to",
+    "cart",
+    "cart",
+    "bot"
+  ],
+  "author": "Hassansin <rezatxe@gmail.com> (https://github.com/hassansin)",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "cheerio": "^0.18.0",
+    "q": "^1.1.2",
+    "request": "^2.49.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-jshint": "^1.9.0"
+  }
+}
