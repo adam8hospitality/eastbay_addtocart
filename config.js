@@ -8,10 +8,6 @@
 		{
 			username: 'eattacoswithdad@gmail.com',
 			password: 'happymeal2'
-		},
-		{
-			username: 'rezatxe@gmail.com',
-			password: 'kraken1'
 		}
 	];
 })();
