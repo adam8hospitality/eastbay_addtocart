@@ -12,8 +12,8 @@ var Eastbay = require('./lib/eastbay').Eastbay;
 var bot = new Eastbay();
 
 var product = {
-	url: 'http://www.eastbay.com/product/model:190074/sku:55088020/jordan-retro-1-high-og-mens/',
-	size: '08.0',
+	url: 'http://www.eastbay.com/product/model:251720/sku:06809002/nike-air-max-95-sneakerboots-mens/all-black/black/',
+	size: '10.0',
 };
 
 
